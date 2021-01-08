@@ -7,5 +7,6 @@
 **Created ANN  using tensorflow (keras)**
 > optimizer :- **SGD**
 > loss function :- **Squared error**
+> layers :- **2**
 
 [Course URL](https://developers.google.com/machine-learning/crash-course/ml-intro)
